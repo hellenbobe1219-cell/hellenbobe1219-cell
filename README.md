@@ -8,6 +8,8 @@ Sobre mí
 - 💻 Actualmente estoy aprendiendo **HTML, CSS y JavaScript**
 - 📚 Estudiante de grado 9° en Colombia 🇨🇴
 - ✨ Creo que pequeñas acciones generan grandes cambios
+-Me gusta aprender cosas nuevas e investigar 
+
 
 ---
 
@@ -18,15 +20,11 @@ Sobre mí
 
 ---
 
-### 🌍 Mis proyectos destacados
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🌳 **Naturaleza es Vida** | Página web sobre el cuidado del medio ambiente y reforestación | HTML, CSS, JavaScript |
+
 
 ---
 
-### 📊 Mis estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=leafy-green)
+
 
 ---
 
