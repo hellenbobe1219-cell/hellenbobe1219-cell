@@ -68,7 +68,7 @@ Soy una estudiante que le gusta la naturaleza y la tecnología. Creo que podemos
 
 ## 🌟 Una pequeña nota para ti
 
-> Gracias por visitar mi rincón en GitHub. Recuerda que no importa qué tan pequeño sea tu cambio, **siempre cuenta**. ¡Cuidemos juntos nuestro planeta! 💚🌍
+> Gracias por visitar mi rincón en GitHub.
 
 ---
 
