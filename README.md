@@ -17,11 +17,11 @@ Soy una estudiante que le gusta la naturaleza y la tecnología. Creo que podemos
 
 ## 🛠️ ¿Qué estoy aprendiendo?
 
-| Herramienta | Nivel |
-|-------------|-------|
-| 🌐 HTML             |
-| 🎨 CSS |            |
-| ⚡ JavaScript       |
+| Herramienta |
+|-------------|
+| 🌐 HTML             
+| 🎨 CSS      |            
+| ⚡ JavaScript       
 
 
 
@@ -50,7 +50,7 @@ Soy una estudiante que le gusta la naturaleza y la tecnología. Creo que podemos
 
 >  *"No heredamos la tierra de nuestros padres, sino que la tomamos prestada a nuestros hijos."*
 
-> 💚*"Nadie puede hacerlo todo, pero todos podemos hacer algo."*
+> *"Nadie puede hacerlo todo, pero todos podemos hacer algo."*
 
 ---
 
@@ -72,7 +72,4 @@ Soy una estudiante que le gusta la naturaleza y la tecnología. Creo que podemos
 
 ---
 
-⭐️ ⭐️ ⭐️
-*Última actualización: Octubre 2026*
-*Hecho con 💚 por Hellen*
 
