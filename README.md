@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Hellen
+#¡Hola, Soy Hellen Bonilla Benavides 
 Estudiante de diseño gráfico
 
 ---
@@ -8,9 +8,13 @@ Sobre mí
 - 💻 Actualmente estoy aprendiendo **HTML, CSS y JavaScript**
 - 📚 Estudiante de grado 9° en Colombia 🇨🇴
 - ✨ Creo que pequeñas acciones generan grandes cambios
+
 -Me gusta aprender cosas nuevas e investigar 
+
 -Mis materias favoritas son historia y Álgebra 
+
 -Me gusta estudiar para asegurar mi futuro desde ahora 
+
 
 
 ---
@@ -22,7 +26,6 @@ Sobre mí
 
 ---
 
-Mi meta es usar la tecnología para ayudar a mejorar el mundo 
 
 ---
 
