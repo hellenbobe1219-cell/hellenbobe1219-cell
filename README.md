@@ -1,43 +1,78 @@
-#¡Hola, Soy Hellen Bonilla Benavides 
-Estudiante de diseño gráfico
-
+# ¡Hola! Soy Hellen Benavides 
+Estudiante de diseño gráfico 
 ---
 
-Sobre mí
-- 🌱 Me apasiona cuidar el medio ambiente y crear proyectos que ayuden a nuestro planeta
-- 💻 Actualmente estoy aprendiendo **HTML, CSS y JavaScript**
-- 📚 Estudiante de grado 9° en Colombia 🇨🇴
-- ✨ Creo que pequeñas acciones generan grandes cambios
+##  Sobre mí
 
--Me gusta aprender cosas nuevas e investigar 
 
--Mis materias favoritas son historia y Álgebra 
+Soy una estudiante que le gusta la naturaleza y la tecnología. Creo que podemos usar lo que aprendemos para cuidar nuestro hogar, la Tierra 🌍
 
--Me gusta estudiar para asegurar mi futuro desde ahora 
-
+- Amo los animales, las plantas y todo lo verde
+- 💻 Estoy aprendiendo a crear páginas web
+- 📍 soy deCali, Colombia 🇨🇴 la sucursal del cielo
+- 🎯 Mi meta: usar la tecnología para cuidar el medio ambiente
 
 
 ---
 
-### 🛠️ Mis tecnologías
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🛠️ ¿Qué estoy aprendiendo?
 
----
-
-
----
+| Herramienta | Nivel |
+|-------------|-------|
+| 🌐 HTML             |
+| 🎨 CSS |            |
+| ⚡ JavaScript       |
 
 
 
 ---
 
-###  Conéctate conmigo
--  Email: hellenbobe1219@gmail.com
--  Siempre aprendiendo algo nuevo ✨
 
+
+**Tecnologías usadas:**
+> HTML · CSS · JavaScript
 
 ---
 
-⭐️ ¡Gracias por visitar mi perfil!
+## 📝 Mis metas personales
+
+- 💧Cuidar el agua y consientisar 
+- 💚 Reducir el uso de plástico
+- 💻 Aprender más sobre programación web
+- 📖 Leer al menos 3 libros nuevos
+- ✨ Ayudar a los demás siempre que pueda
+
+---
+
+## 💡 Frases que me inspiran
+
+>  *"La tierra no es nuestra, nosotros somos de la tierra."*
+
+>  *"No heredamos la tierra de nuestros padres, sino que la tomamos prestada a nuestros hijos."*
+
+> 💚*"Nadie puede hacerlo todo, pero todos podemos hacer algo."*
+
+---
+
+## 🎨 Mis gustos e intereses
+
+| Me gusta | No me gusta tanto |
+|----------|-------------------|
+| 🌳 La naturaleza | 🥤 El exceso de plástico |
+| 💚 Cuidar plantas | ⚡ Desperdiciar luz y agua |
+| 💻 Crear páginas web | 🗑️ La basura en las calles |
+| 📚 Aprender cosas nuevas | ❌ La falta de respeto hacia los demás |
+| 🎵 La música y el baile | 😔 Ver dañar el medio ambiente |
+
+---
+
+## 🌟 Una pequeña nota para ti
+
+> Gracias por visitar mi rincón en GitHub. Recuerda que no importa qué tan pequeño sea tu cambio, **siempre cuenta**. ¡Cuidemos juntos nuestro planeta! 💚🌍
+
+---
+
+⭐️ ⭐️ ⭐️
+*Última actualización: Octubre 2026*
+*Hecho con 💚 por Hellen*
+
