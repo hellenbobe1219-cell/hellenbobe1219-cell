@@ -50,11 +50,11 @@ Soy una estudiante que le gusta la naturaleza y la tecnología. Creo que podemos
 
 | Me gusta | No me gusta tanto |
 |----------|-------------------|
-| 🌳 La naturaleza | 🥤 El exceso de plástico |
-| 💚 Cuidar plantas | ⚡ Desperdiciar luz y agua |
-| Pintar y Tejer| 🗑️ La basura en las calles |
-| 📚 Aprender cosas nuevas, aprender sobre los sitios web | ❌ La falta de respeto hacia los demás |
-| 🎵 La música y el baile | 😔 Ver dañar el medio ambiente |
+| 🌳 La naturaleza |  El exceso de plástico |
+| 💚 Cuidar plantas |  Desperdiciar luz y agua |
+| Pintar y Tejer|  La basura en las calles |
+| 📚 Aprender cosas nuevas, aprender sobre los sitios web |  La falta de respeto hacia los demás |
+| 🎵 La música y el baile |  Ver dañar el medio ambiente |
 
 ---
 
